@@ -48,3 +48,6 @@ jobs:
 
   steps:
     - template: .azure-pipelines-steps.yml
+
+variables:
+  CI: true
