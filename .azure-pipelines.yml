@@ -52,4 +52,3 @@ jobs:
 variables:
   # Used by chalk. Ensures output from Jest includes ANSI escape characters that are needed to match test snapshots.
   FORCE_COLOR: 1
-  CI: true
