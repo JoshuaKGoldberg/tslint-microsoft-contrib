@@ -1,8 +1,8 @@
 # Changelog
 
-## [6.1.1-beta](https://github.com/Microsoft/tslint-microsoft-contrib/releases/tag/6.1.1-beta)
+## [6.1.1](https://github.com/Microsoft/tslint-microsoft-contrib/releases/tag/6.1.1)
 
-[All Issues](https://github.com/Microsoft/tslint-microsoft-contrib/issues?q=milestone%3A6.1.0-beta)
+[All Issues](https://github.com/Microsoft/tslint-microsoft-contrib/issues?q=milestone%3A6.1.1)
 
 -   [#844](https://github.com/Microsoft/tslint-microsoft-contrib/issues/844) Update w3 reference in the react-a11y-role rule
 -   [#836](https://github.com/Microsoft/tslint-microsoft-contrib/issues/836) react-a11y-no-onchange should allow onChange when onBlur is present
